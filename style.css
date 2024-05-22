@@ -1,0 +1,20 @@
+a:link {
+    color: green;
+  }
+  
+
+  a:active {
+    border: 40px solid blue;
+
+  }
+  
+
+  a:hover {
+    background-color: yellow;
+  }
+  
+  a:visited {
+    color: purple;
+    border: 50px solid black;
+  }
+  
